@@ -9,5 +9,5 @@ def my_each(array)
 end
 
 my_each(["arel", "jon", "logan", "spencer"]) do |array|
-  puts array
+  print array
 end
